@@ -23,7 +23,7 @@
       "id": "pullfiles",
       "name": "PullFiles",
       "description": "ดึงและถอดรหัสไฟล์จากเซิร์ฟเวอร์",
-      "enabled": true,
+      "enabled": false,
       "icon": "📥",
       "order": 3
     },
