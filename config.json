@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "maintenance_mode": false,
+  "maintenance_message": "",
+  "menu_items": [
+    {
+      "id": "base64",
+      "name": "Base64",
+      "description": "ถอดรหัส Base64 จากไฟล์ JSON",
+      "enabled": true,
+      "icon": "📝",
+      "order": 1
+    },
+    {
+      "id": "aes",
+      "name": "AES",
+      "description": "ถอดรหัส AES-256-CBC",
+      "enabled": true,
+      "icon": "🔐",
+      "order": 2
+    },
+    {
+      "id": "pullfiles",
+      "name": "PullFiles",
+      "description": "ดึงและถอดรหัสไฟล์จากเซิร์ฟเวอร์",
+      "enabled": true,
+      "icon": "📥",
+      "order": 3
+    },
+    {
+      "id": "api",
+      "name": "API",
+      "description": "ถอดรหัสผ่าน API",
+      "enabled": true,
+      "icon": "🌐",
+      "order": 4
+    }
+  ],
+  "last_modified": "2025-11-17T10:00:00Z"
+}
