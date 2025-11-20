@@ -15,7 +15,7 @@
       "id": "aes",
       "name": "AES",
       "description": "ถอดรหัส AES-256-CBC",
-      "enabled": true,
+      "enabled": false,
       "icon": "🔐",
       "order": 2
     },
@@ -23,7 +23,7 @@
       "id": "pullfiles",
       "name": "PullFiles",
       "description": "ดึงและถอดรหัสไฟล์จากเซิร์ฟเวอร์",
-      "enabled": true,
+      "enabled": false,
       "icon": "📥",
       "order": 3
     },
@@ -31,7 +31,7 @@
       "id": "api",
       "name": "API",
       "description": "ถอดรหัสผ่าน API",
-      "enabled": true,
+      "enabled": false,
       "icon": "🌐",
       "order": 4
     }
